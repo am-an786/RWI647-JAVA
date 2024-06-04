@@ -1,0 +1,4 @@
+Stack Memory:- The Stack is used to store the order of method execution and local variables while the heap memory stores the objects and it uses dynamic memory allocation and deallocation.
+
+Heap Memory:- When you created an object using the new keyword , memory allocated on the heap.
+                                                                                     Methods calls and local variables are the stored in the stack memory of the respective thread.
