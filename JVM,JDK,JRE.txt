@@ -1,0 +1,11 @@
+1. JVM->  JVM is a java virtual machine .it is like a virtual computer that runs java programs. it translate our code into instructions that our operating System can understand.
+
+
+
+2. JRE->  JRE is a java run time environment. it is a package that include JVM , libraries and other resources that needed to run java programs.
+
+
+3. JDK-> JDK is a java development kit. it is a bundle that include JRE, tools and libraries for developing java application.
+
+
+In short, JVM runs java code JRE allows you to run java applications and JDK provide tools for creating and running java programs.
