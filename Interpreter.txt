@@ -1,0 +1,16 @@
+Interpreter:-an Interpreter is a computer program that converts the high-level program statement into Assembly-level language. It converts the code into machine code when the program is run.
+
+Roles of Java Interpreter
+
+To convert the bytecode into the native code of the machine.
+This process is done line by line.
+If the error comes on any line, the process is stopped over there.
+Interpreter vs Compiler: How is Interpreter Different Than a Compiler in Java?
+Here are some key differences between an interpreter and a compiler. They are as follows:
+
+The interpreter scans the program line by line and translates it into machine code whereas the compiler scans the entire program first and then translates it into machine code.
+The interpreter shows one error at a time whereas the compiler shows all errors and warnings at the same time.
+In the interpreter, the error occurs after scanning each line whereas, in the compiler, the error occurs after scanning the whole program.
+In an interpreter, debugging is faster whereas, in the compiler, debugging is slow.
+Execution time is more in the interpreter whereas execution time is less in the compiler.
+An interpreter is used by languages such as Java, and Python, and the compiler is used by languages such as C, C++, etc.
